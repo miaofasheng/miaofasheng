@@ -10,9 +10,6 @@
 *I'm constantly learning and experimenting in these fields, aiming to contribute to a safer and more secure digital world, looking forward to our communication and collaboration.*
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=miaofasheng&show_icons=true&theme=tokyonight" /> </div>
-<div align="center" style="text-align: center; font-family: 'Roboto', sans-serif; font-size: 32px; color: #6D2077; text-shadow: 2px 2px 4px #333;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=总有一些美好，值得我们全力以赴! &center=true&font=Roboto&size=27" />
-</div>
 
 
 
