@@ -9,7 +9,7 @@
 
 *I'm constantly learning and experimenting in these fields, aiming to contribute to a safer and more secure digital world, looking forward to our communication and collaboration.*
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=miaofasheng&show_icons=true&theme=tokyonight" /> </div>
+
 
 
 
