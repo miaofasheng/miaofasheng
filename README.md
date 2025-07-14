@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently a graduate student at Tsinghua University.
+- 🔭 I am currently a master's student at Tsinghua University, focusing on network security.
 
 
 
